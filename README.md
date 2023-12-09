@@ -29,12 +29,7 @@
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <img src="https://img.icons8.com/color/48/000000/blender.png" alt="blender" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="bootstrap" width="40" height="40"/>
-  <!-- Add or modify other tools and languages as needed -->
-</p>
+
 
 <!-- GitHub Stats -->
 <p align="center">
