@@ -7,7 +7,7 @@
 
 - 🌱 Learning **Express.js, Javascript, API**
 
-- 💬 Ask me about **C, C++, Python, Java**
+- 💬 Ask me about ** Java , OOPS , SQL **
 
 - 📫 Reach me at **manish16112000@gmail.com**
 
